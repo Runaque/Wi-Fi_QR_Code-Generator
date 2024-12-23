@@ -17,7 +17,7 @@ SHA256 hash: 024103a8de2d7c07bd165b6c3ccf0aa98e1076a72a0844db32492cc27e74cf21
 SHA512 hash: 0845090008dba9674c5910044fe2f0e73b4caa04a71a238e9b4921410d424462fa696195bebcb2ac7d99aab030e8be2b50764e4dad45b1a90968b33013db3456
 
 
-The hash for the WiFi.py file :
+The hash for the WiFiQR.py file :
 
 MD5 hash: 24f73b1c5e46183a2665f3d235ab2db5
 
